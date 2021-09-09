@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/upload/upload"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "艾墨云印",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "pageOrientation": "auto"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap55.json"
+}
